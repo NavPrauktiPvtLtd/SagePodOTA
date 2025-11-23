@@ -1,4 +1,4 @@
 {
   "version": 4,
-  "url": "http://api.agrisage.io/api/user/sage-pod/ota"
+  "url": "https://raw.githubusercontent.com/NavPrauktiPvtLtd/SagePodOTA/main/ota/hw1/firmware.bin"
 }
