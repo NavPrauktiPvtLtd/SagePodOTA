@@ -1,4 +1,4 @@
 {
   "version": 4,
-  "url": "https://mw-bucket-v1.s3.ap-south-1.amazonaws.com/firmware/firmware.bin"
+  "url": "https://api.agrisage.io/api/user/sage-pod/ota"
 }
