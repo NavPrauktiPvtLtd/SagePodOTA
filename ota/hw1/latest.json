@@ -1,4 +1,4 @@
 {
   "version": 4,
-  "url": "https://raw.githubusercontent.com/NavPrauktiPvtLtd/SagePodOTA/main/ota/hw1/firmware.bin"
+  "url": "https://ap-south-1.console.aws.amazon.com/s3/object/mw-bucket-v1?region=ap-south-1&prefix=firmware/firmware.bin"
 }
