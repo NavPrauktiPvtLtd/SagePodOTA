@@ -1,4 +1,4 @@
 {
   "version": 4,
-  "url": "https://ap-south-1.console.aws.amazon.com/s3/object/mw-bucket-v1?region=ap-south-1&prefix=firmware/firmware.bin"
+  "url": "https://mw-bucket-v1.s3.ap-south-1.amazonaws.com/firmware/firmware.bin"
 }
